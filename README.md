@@ -79,4 +79,4 @@ Presentación utilizada en el vídeo.
 
 ## Notas
 * Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos. Se sugiere ejecutar el [jupyternotebook desde en la versión Colab](https://colab.research.google.com/gist/Felix-07/47f2411f3466c46c877c6615656e4307/proyecto-final-python.ipynb) para poder visualizarlos.
-*  Por otra parte se puede descargar [los mapas interactivos](https://github.com/Felix-07/Proyecto-Final-Python/tree/main/Mapas%20interactivos) (formato *HTML*) y abrirlos en tu navegador.
+*  Por otra parte se puede descargar [los mapas interactivos](https://github.com/Felix-07/Proyecto-Final-Python/tree/main/Mapas%20interactivos) (formato *HTML*), se adjuntan un [mapa de calor](https://felix-07.github.io/Proyecto-Final-Python/)
