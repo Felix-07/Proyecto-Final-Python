@@ -13,16 +13,18 @@
 -Alejandro De Fuentes Martínez
 
 ## Resumen 
-El proyecto consiste en el la limpieza, procesamiento y análisis de datos de incidentes viales en la CDMX desde el 2014 hasta el 2021. Los datos fueron recopilados por El Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano  ( [C5](https://www.c5.cdmx.gob.mx/)) de la Ciudad de México, la cual es la dependencia del Gobierno  encargada de captar información para la toma de decisiones en la capital del país a través del video monitoreo, de la captación de llamadas telefónicas y de aplicaciones informáticas de inteligencia. El procedmiento se divide en ocho partes:
+El proyecto consiste en el la limpieza, procesamiento y análisis de datos de incidentes viales en la CDMX desde el 2014 hasta el 2021. Los datos fueron recopilados por El Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano  ( [C5](https://www.c5.cdmx.gob.mx/)) de la Ciudad de México, la cual es la dependencia del Gobierno  encargada de captar información para la toma de decisiones en la capital del país a través del video monitoreo, de la captación de llamadas telefónicas y de aplicaciones informáticas de inteligencia. El procedmiento se divide en nueve partes:
 
 1. Identificación del problema
-2. Planteamiento de preguntas
+2. Plantemiento de preguntas
 3. Colección de datos
 4. Análisis exploratorio de los datos
-5. Limpieza de datos
-6. Transformación de los datos
-7. Conclusiones
-8. Uso de APIs
+5. Limpieza de datos  
+6. Procesamiento
+7. APIs
+8. Conclusiones
+9. Planes a futuro
+
 
 ## Contenido
 
@@ -39,5 +41,6 @@ Se adjunta un vídeo donde cada uno de los integrantes expone de manera breve ca
 Se adjuntan los archivos *csv* correspondientes a los datos utilizados sin modificar, así como los datos limpios.
 
 5. **Presentación**:
+Presentación utilizada en el vídeo.
 
 ## Notas
