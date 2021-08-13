@@ -38,7 +38,8 @@ Documento en formato *pdf* con  que contiene el marco teorico de referencia, pre
 Se adjunta un vídeo donde cada uno de los integrantes expone de manera breve cada parte del proyecto.
 
 4. **Datasets**:
-Se adjuntan los archivos *csv* correspondientes a los datos utilizados sin modificar, así como los datos limpios.
+Se adjuntan los archivos *csv* correspondientes a los datos utilizados sin modificar, así como los datos limpios. Los datos se encuentran guardados en una [carpeta de google drive](https://drive.google.com/drive/folders/1ua_Z7qMB_qVfzblyBNlwf2it-tOIaGTK?usp=sharing).
+
 
 5. **Presentación**:
 Presentación utilizada en el vídeo.
