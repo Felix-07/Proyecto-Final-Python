@@ -40,43 +40,43 @@ Presentación utilizada en el vídeo.
 3. Colección de datos
 4. Análisis exploratorio de los datos
 
-  4.1 Descripción general de los datasets
+   4.1 Descripción general de los datasets
   
-  4.2 Concatenación de los datasets
+   4.2 Concatenación de los datasets
   
-  4.3 Verificación de los datos
-  
-  4.4 Especificaciones generales para la limpieza
-  
+   4.3 Verificación de los datos
+   
+   4.4 Especificaciones generales para la limpieza
+   
 5. Limpieza de datos  
 
-  5.1 Tranformación de datos
+   5.1 Tranformación de datos
   
-  5.2 Eliminación de NaNs
+   5.2 Eliminación de NaNs
   
 6. Procesamiento y resultados
 
-  6.1 Frecuencias generales de los datos categoricos
+   6.1 Frecuencias generales de los datos categoricos
   
-  6.2 Accidentes afirmativos y su clasificación
+   6.2 Accidentes afirmativos y su clasificación
   
-  6.3 Accidentes afirmativo por delegacion 
+   6.3 Accidentes afirmativo por delegacion 
   
-  6.4 Accidentes afirmativo por año
+   6.4 Accidentes afirmativo por año
   
-  6.5 infomación de accidentes por delegaciónes  un mes y año en particular
+   6.5 infomación de accidentes por delegaciónes  un mes y año en particular
   
-  6.6 Serie de tiempo de accidentes afirmativos
+   6.6 Serie de tiempo de accidentes afirmativos
   
 7. APIs
 
-  7.1 Delimitación territorial de las 16 alcaldías de la Ciudad de México
+   7.1 Delimitación territorial de las 16 alcaldías de la Ciudad de México
   
-  7.2 Mapa interactivo de accidentes 
+   7.2 Mapa interactivo de accidentes 
   
 8. Conclusiones
 9. Planes a futuro
 
 ## Notas
-* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos. Se sugiere ejecutar el [jupyternotebook desde en la versión Colab](https://colab.research.google.com/gist/Felix-07/47f2411f3466c46c877c6615656e4307/proyecto-final-python.ipynb) para poder visualizarlos.
-* Por otra parte se puede descargar [los mapas interactivos](https://github.com/Felix-07/Proyecto-Final-Python/tree/main/Mapas%20interactivos) (formato *HTML*) o vizualizarlos en internet: [mapa de cluster](https://felix-07.github.io/Proyecto-Final-Python/Accidentes_A_2021_cluster.html), [mapa de calor](https://felix-07.github.io/Proyecto-Final-Python/accidentes_2021_5_heatmap.html) y [Delimitación territorial de la CDMX](https://felix-07.github.io/Proyecto-Final-Python/alcaldias.html)
+* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyternotebook vesión Colab](https://colab.research.google.com/gist/Felix-07/47f2411f3466c46c877c6615656e4307/proyecto-final-python.ipynb).
+* Por otra parte se puede descargar [los mapas interactivos](https://github.com/Felix-07/Proyecto-Final-Python/tree/main/Mapas%20interactivos) (formato *html*) o vizualizarlos en internet: [mapa de cluster](https://felix-07.github.io/Proyecto-Final-Python/Accidentes_A_2021_cluster.html), [mapa de calor](https://felix-07.github.io/Proyecto-Final-Python/accidentes_2021_5_heatmap.html) y [Delimitación territorial de la CDMX](https://felix-07.github.io/Proyecto-Final-Python/alcaldias.html)
