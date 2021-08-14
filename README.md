@@ -18,7 +18,7 @@ El proyecto consiste en el la limpieza, procesamiento y análisis de datos de in
 ## Contenido
 
 1. **Un documento escrito**: 
-Documento en formato *pdf* con  que contiene el marco teorico de referencia, preguntas relevantes, análisis del problema, comentarios, información del proyecto y referencias. 
+Documento el [reporte del proyecto](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Reporte%20-%20Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20-%20C5%20-%2013%20Agosto%202021.pdf) en formato *pdf* con  que contiene el marco teorico de referencia, preguntas relevantes, análisis del problema, comentarios, información del proyecto y referencias. 
 
 2. **Un Jupyter Notebook**: 
  Se presenta el [código](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20.ipynb) en formato *ipynb* en donde se muestra porceso de cada una de las partes del proyecto, así como los resultados obtenidos. 
@@ -34,7 +34,7 @@ Se adjuntan los archivos *csv* originales así como los procesados en una [carpe
 Presentación utilizada en el vídeo.
 
 ## Índice del código
-0. Librerias
+0. Líbrerias
 1. Identificación del problema
 2. Plantemiento de preguntas
 3. Colección de datos
