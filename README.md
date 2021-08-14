@@ -21,7 +21,7 @@ El proyecto consiste en el la limpieza, procesamiento y análisis de datos de in
 Documento el [reporte del proyecto](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Reporte%20-%20Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20-%20C5%20-%2013%20Agosto%202021.pdf) en formato *pdf* con  que contiene el marco teórico de referencia, preguntas relevantes, análisis del problema, comentarios, información del proyecto y referencias. 
 
 2. **Un Jupyter Notebook**: 
- Se presenta el [código](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20.ipynb) en formato *ipynb* en donde se muestra proceso de cada una de las partes del proyecto, así como los resultados obtenidos. 
+ Se presenta el [código](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Proyecto_Final_Python_Final_Final_13Ago21.ipynb) en formato *ipynb* en donde se muestra proceso de cada una de las partes del proyecto, así como los resultados obtenidos. 
 
 3. **Vídeo**:
 Se adjunta el [link del vídeo](https://www.youtube.com/watch?v=H1bo_fPujoQ) donde cada uno de los integrantes expone de manera breve cada parte del proyecto.
