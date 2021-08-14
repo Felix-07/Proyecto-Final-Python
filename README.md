@@ -78,5 +78,5 @@ Se adjuntan los archivos *csv* originales así como los procesados en una [carpe
 9. Planes a futuro
 
 ## Notas
-* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyternotebook vesión Colab](https://colab.research.google.com/gist/Felix-07/47f2411f3466c46c877c6615656e4307/proyecto-final-python.ipynb).
+* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyternotebook vesión Colab](https://colab.research.google.com/gist/Felix-07/a3b57ffaebacdb6cdb26179440550c82/proyecto-final-python.ipynb).
 * Por otra parte se puede descargar [los mapas interactivos](https://github.com/Felix-07/Proyecto-Final-Python/tree/main/Mapas%20interactivos) (formato *html*) o vizualizarlos en internet: [mapa de cluster](https://felix-07.github.io/Proyecto-Final-Python/Accidentes_A_2021_cluster.html), [mapa de calor](https://felix-07.github.io/Proyecto-Final-Python/accidentes_2021_5_heatmap.html) y [Delimitación territorial de la CDMX](https://felix-07.github.io/Proyecto-Final-Python/alcaldias.html).
