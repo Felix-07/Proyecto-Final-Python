@@ -31,7 +31,7 @@ Se adjuntan los archivos *csv* originales así como los procesados en una [carpe
 
 
 5. **Presentación**:
-[Presentación](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Extra/Presentacio%CC%81n%20para%20el%20Video%20en%20Equipo%20-%20Proyecto%20-%20Procesamiento%20de%20Datos%20con%20Python%20-%2013Agosto2021.pdf) utilizada en el vídeo.
+[Presentación](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Extra/Presentacio%CC%81n%20para%20el%20Video%20en%20Equipo%20-%20Proyecto%20-%20Procesamiento%20de%20Datos%20con%20Python%20-%2013Agosto2021.pdf) utilizada en el vídeo en formato *pdf*.
 
 ## Índice del código
 0. Librerías
@@ -80,3 +80,4 @@ Se adjuntan los archivos *csv* originales así como los procesados en una [carpe
 ## Notas
 * Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyternotebook vesión Colab](https://colab.research.google.com/gist/Felix-07/a3b57ffaebacdb6cdb26179440550c82/proyecto-final-python.ipynb).
 * Por otra parte se puede descargar [los mapas interactivos](https://github.com/Felix-07/Proyecto-Final-Python/tree/main/Mapas%20interactivos) (formato *html*) o vizualizarlos en internet: [mapa de cluster](https://felix-07.github.io/Proyecto-Final-Python/Accidentes_A_2021_cluster.html), [mapa de calor](https://felix-07.github.io/Proyecto-Final-Python/accidentes_2021_5_heatmap.html) y [Delimitación territorial de la CDMX](https://felix-07.github.io/Proyecto-Final-Python/alcaldias.html).
+* En caso de tener problemas al visualizar los documentos en formato *pdf*, se recomienda utilizar el navegador Google Chrome.
