@@ -18,23 +18,23 @@ El proyecto consiste en el la limpieza, procesamiento y análisis de datos de in
 ## Contenido
 
 1. **Un documento escrito**: 
-Documento el [reporte del proyecto](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Reporte%20-%20Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20-%20C5%20-%2013%20Agosto%202021.pdf) en formato *pdf* con  que contiene el marco teorico de referencia, preguntas relevantes, análisis del problema, comentarios, información del proyecto y referencias. 
+Documento el [reporte del proyecto](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Reporte%20-%20Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20-%20C5%20-%2013%20Agosto%202021.pdf) en formato *pdf* con  que contiene el marco teórico de referencia, preguntas relevantes, análisis del problema, comentarios, información del proyecto y referencias. 
 
 2. **Un Jupyter Notebook**: 
- Se presenta el [código](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20.ipynb) en formato *ipynb* en donde se muestra porceso de cada una de las partes del proyecto, así como los resultados obtenidos. 
+ Se presenta el [código](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Entrega_Final_Procesamiento_Ximena%C3%81vila_AnaCuevas_FelixNieto_AlejandroFuentes/Proyecto%20Incidentes%20Viales%20en%20la%20CDMX%20.ipynb) en formato *ipynb* en donde se muestra proceso de cada una de las partes del proyecto, así como los resultados obtenidos. 
 
 3. **Vídeo**:
 Se adjunta el [link del vídeo](https://www.youtube.com/watch?v=H1bo_fPujoQ) donde cada uno de los integrantes expone de manera breve cada parte del proyecto.
 
 4. **Datasets**:
-Se adjuntan los archivos *csv* originales así como los procesados en una [carpeta de google drive](https://drive.google.com/drive/folders/1ua_Z7qMB_qVfzblyBNlwf2it-tOIaGTK?usp=sharing), en el se encuentran los Datasets de los incidentes viales reportados del 2014 al 2020, incidentes viales resportados del 2021, los datos limpios y los poligonos delimitadores de las alcaldías.
+Se adjuntan los archivos *csv* originales así como los procesados en una [carpeta de google drive](https://drive.google.com/drive/folders/1ua_Z7qMB_qVfzblyBNlwf2it-tOIaGTK?usp=sharing), en el se encuentran los Datasets de los incidentes viales reportados del 2014 al 2020, incidentes viales reportados del 2021, los datos limpios y los polígonos delimitadores de las alcaldías.
 
 
 5. **Presentación**:
-Presentación utilizada en el vídeo.
+[Presentación](https://github.com/Felix-07/Proyecto-Final-Python/blob/main/Extra/Presentacio%CC%81n%20para%20el%20Video%20en%20Equipo%20-%20Proyecto%20-%20Procesamiento%20de%20Datos%20con%20Python%20-%2013Agosto2021.pdf) utilizada en el vídeo.
 
 ## Índice del código
-0. Líbrerias
+0. Librerías
 1. Identificación del problema
 2. Plantemiento de preguntas
 3. Colección de datos
